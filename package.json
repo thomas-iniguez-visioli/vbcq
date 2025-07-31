@@ -15,7 +15,7 @@
     "git-credential-node": "^1.1.0",
     "hexo": "^7.3.0",
 
-    "hexo-auto-toc": "^1.0.7",
+    "hexo-auto-toc": "^1.0.10",
 
     "hexo-deployer-git": "^4.0.0",
     "hexo-deployer-sftp": "github:alphaleadership/hexo-deployer-sftp",
